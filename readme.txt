@@ -5,3 +5,4 @@ The dataset for the bot was written by me and is still insufficient for a proper
 The bot works in both personal chats as well group chats.
 You can directly add the bot in your group to get started.
 Note that the python script should be running for the bot to be responsive.
+The bot can be searched using the username @OPLuffyBot
